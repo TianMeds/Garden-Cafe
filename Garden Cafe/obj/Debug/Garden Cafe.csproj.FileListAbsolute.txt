@@ -1,0 +1,20 @@
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\bin\Debug\Garden Cafe.exe.config
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\bin\Debug\Garden Cafe.exe
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\bin\Debug\Garden Cafe.pdb
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\obj\Debug\Garden Cafe.csprojAssemblyReference.cache
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\obj\Debug\Garden_Cafe.Form1.resources
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\obj\Debug\Garden_Cafe.Properties.Resources.resources
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\obj\Debug\Garden Cafe.csproj.GenerateResource.cache
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\obj\Debug\Garden Cafe.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\obj\Debug\Garden Cafe.exe
+D:\VISUAL STUDIO PROJECT\HelloWorld\Garden Cafe\Garden Cafe\obj\Debug\Garden Cafe.pdb
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\bin\Debug\Garden Cafe.exe.config
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\bin\Debug\Garden Cafe.exe
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\bin\Debug\Garden Cafe.pdb
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\obj\Debug\Garden Cafe.csprojAssemblyReference.cache
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\obj\Debug\Garden_Cafe.Form1.resources
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\obj\Debug\Garden_Cafe.Properties.Resources.resources
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\obj\Debug\Garden Cafe.csproj.GenerateResource.cache
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\obj\Debug\Garden Cafe.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\obj\Debug\Garden Cafe.exe
+D:\VISUAL STUDIO PROJECT\HelloWorld\STECH2 PETA1 Medallada\STECH2 PETA1 Medallada\Garden Cafe\obj\Debug\Garden Cafe.pdb
